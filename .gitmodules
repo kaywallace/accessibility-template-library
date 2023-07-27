@@ -1,0 +1,3 @@
+[submodule "accessibility-ac-markdown-library"]
+	path = src/markdown/accessibility-ac-markdown-library
+	url = https://github.com/kaywallace/accessibility-ac-markdown-library.git

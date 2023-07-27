@@ -1,0 +1,20 @@
+.main-menu {
+    text-align: left;
+    
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        li {
+            padding: 0;
+            margin: 0;
+            display: block;
+        }
+    }
+
+    .sub-menu {
+        ul {
+            padding: 0 0 0 1rem;
+        }
+    }
+}
